@@ -1,0 +1,40 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Backups & Alte Versionen
+index_backup_*
+index_FINAL_*
+
+# Dev-only / Experiment-HTMLs
+gradient.html
+edit-mockup.html
+mockup-preview.html
+og-preview.html
+og-template.html
+y55-logo-export.html
+
+# Rohmaterial / Mockups / Präsentationen
+*.key
+*.zip
+deploy/
+mockup-temp/
+Branchenfotos/
+gosh!_play/
+5 gosh! Agent/
+
+# Unbenutzte Root-Bilder (sind doppelt oder nicht referenziert)
+y55-gradient.png
+y55-logo-export.html
+Mockup_Iphone_2.png
+iPhone 17 Pro Deep Blue.png
+Gosh_Portraits3422.jpg
+57173f96-*.jpg
+gosh! AI Agent.png
+gosh!-03-logo-*.png
+
+# Editor / Tools
+.vscode/
+.idea/
+*.swp
+node_modules/
