@@ -38,3 +38,4 @@ gosh!-03-logo-*.png
 .idea/
 *.swp
 node_modules/
+.claude/
