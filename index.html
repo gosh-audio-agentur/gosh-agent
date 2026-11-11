@@ -1596,6 +1596,20 @@ footer { background:#080808; color:rgba(255,255,255,.5); border-top:1px solid #1
         </svg>
         Hotellerie &amp; Gastronomie
       </button>
+      <button class="ind-tab" role="tab" data-tab="kanzlei" onclick="switchTab(this,'kanzlei')">
+        <svg class="ti" viewBox="0 0 28 28" fill="none">
+          <defs><filter id="ti4" x="-15%" y="-15%" width="130%" height="130%"><feTurbulence type="fractalNoise" baseFrequency=".06" numOctaves="3" seed="13"/><feDisplacementMap in="SourceGraphic" scale="1.5"/></filter></defs>
+          <!-- briefcase body -->
+          <rect x="3" y="11" width="22" height="14" rx="2.5" fill="none" stroke="#888" stroke-width="2.2" stroke-linejoin="round" filter="url(#ti4)"/>
+          <!-- handle -->
+          <path d="M10 11 L10 8 C10 6.5 18 6.5 18 8 L18 11" fill="none" stroke="#888" stroke-width="2.2" stroke-linejoin="round" filter="url(#ti4)"/>
+          <!-- center horizontal bar -->
+          <line x1="3" y1="18" x2="25" y2="18" stroke="#2B63D9" stroke-width="1.8" opacity=".65" filter="url(#ti4)"/>
+          <!-- clasp -->
+          <rect x="11" y="16" width="6" height="4" rx="1.5" fill="#eef3ff" stroke="#2B63D9" stroke-width="1.8" filter="url(#ti4)"/>
+        </svg>
+        Notare &amp; Rechtsberatung
+      </button>
     </div>
   </div>
 
@@ -1829,6 +1843,73 @@ footer { background:#080808; color:rgba(255,255,255,.5); border-top:1px solid #1
     </div>
   </div>
 
+  <!-- NOTARE & RECHTSBERATER -->
+  <div class="ind-panel" id="tab-kanzlei" role="tabpanel">
+    <div>
+      <p class="ind-overline">Notare, Steuer- &amp; Rechtsberatung</p>
+      <h3 class="ind-title">KI-Telefonassistent für Kanzleien:</h3>
+      <p class="ind-subtitle" style="font-family:var(--fd);font-weight:600;font-size:clamp(14px,1.4vw,20px);text-transform:uppercase;letter-spacing:0.02em;color:var(--mu);margin:-8px 0 16px;">Professionelle Erreichbarkeit &amp; Effizenzsteigerung</p>
+      <p class="ind-body">Unser KI-Telefonassistent entlastet Kanzleien und Beratungsunternehmen bei eingehenden Anrufen rund um die Uhr. Anliegen werden zuverlässig aufgenommen, Termine koordiniert und vertrauliche strukturiert weitergeleitet. Alle Gespräche werden automatisch transkribiert, priorisiert und strukturiert dokumentiert. Entlaste deine Kanzlei, indem du spürbar mehr Zeit für komplexe Mandatsarbeit gewinnst und gleichzeitig einen professionellen Mandantenservice sicherst.</p>
+      <div class="ind-checks" style="display:grid;grid-template-columns:1fr 1fr;gap:8px 40px;margin-top:24px;">
+        <div class="ind-check"><svg viewBox="0 0 20 20" fill="none" width="18" height="18" style="flex-shrink:0"><polyline points="2,10 8,16 18,4" stroke="#2B63D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#ck)"/></svg> Transkription &amp; Kategorisierung</div>
+        <div class="ind-check"><svg viewBox="0 0 20 20" fill="none" width="18" height="18" style="flex-shrink:0"><polyline points="2,10 8,16 18,4" stroke="#2B63D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#ck)"/></svg> speziell für Kanzleien entwickelt</div>
+        <div class="ind-check"><svg viewBox="0 0 20 20" fill="none" width="18" height="18" style="flex-shrink:0"><polyline points="2,10 8,16 18,4" stroke="#2B63D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#ck)"/></svg> 24/7 Telefonservice ohne Warteschlange</div>
+        <div class="ind-check"><svg viewBox="0 0 20 20" fill="none" width="18" height="18" style="flex-shrink:0"><polyline points="2,10 8,16 18,4" stroke="#2B63D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#ck)"/></svg> 100% DSGVO-konform</div>
+        <div class="ind-check"><svg viewBox="0 0 20 20" fill="none" width="18" height="18" style="flex-shrink:0"><polyline points="2,10 8,16 18,4" stroke="#2B63D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#ck)"/></svg> integrierte Wissensdatenbank</div>
+        <div class="ind-check"><svg viewBox="0 0 20 20" fill="none" width="18" height="18" style="flex-shrink:0"><polyline points="2,10 8,16 18,4" stroke="#2B63D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#ck)"/></svg> mehr Ruhe &amp; Konzentration in der Kanzlei</div>
+        <div class="ind-check"><svg viewBox="0 0 20 20" fill="none" width="18" height="18" style="flex-shrink:0"><polyline points="2,10 8,16 18,4" stroke="#2B63D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#ck)"/></svg> individuell anpassbar &amp; integrierbar</div>
+        <div class="ind-check"><svg viewBox="0 0 20 20" fill="none" width="18" height="18" style="flex-shrink:0"><polyline points="2,10 8,16 18,4" stroke="#2B63D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#ck)"/></svg> weniger Unterbrechungen</div>
+      </div>
+      <div class="ind-cta-box">
+        <div class="ind-phone-wrap">
+          <div class="ind-phone-lbl">Zum Testen jetzt anrufen</div>
+          <div class="ind-phone-num">+43 1 435 19 49</div>
+        </div>
+        <a href="tel:+4314351949" class="btn-dark"><svg aria-hidden="true" style="flex-shrink:0" width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z"/></svg> Jetzt anrufen</a>
+      </div>
+    </div>
+    <div class="ind-visual">
+      <img src="images/branche-kanzlei.jpg" alt="Kanzlei & Rechtsberatung">
+      <div class="ind-caption">Kanzlei mit professionellem Telefonservice</div>
+    </div>
+    <div class="ind-faq" style="grid-column:1/-1">
+      <div class="ind-faq-title">FAQ's — Notare &amp; Rechtsberatung<svg class="ind-faq-title-ico" viewBox="0 0 36 36" fill="none"><circle cx="18" cy="18" r="15" fill="#eef3ff" stroke="#2B63D9" stroke-width="2.5" filter="url(#ck)"/><text x="18" y="24" text-anchor="middle" font-size="18" font-weight="900" fill="#2B63D9" font-family="serif" filter="url(#ck)">?</text></svg></div>
+      <div class="ind-faq-acc">
+        <div class="ind-faq-acc-item open">
+          <button class="ind-faq-acc-trigger" onclick="toggleFaq(this)">
+            <span class="ind-faq-acc-num">01</span>
+            <span class="ind-faq-acc-q">Wie werden vertrauliche Mandantenanfragen behandelt?</span>
+            <svg class="ind-faq-acc-plus" viewBox="0 0 24 24" fill="none"><line x1="12" y1="4" x2="12" y2="20" stroke="#2B63D9" stroke-width="2.5" stroke-linecap="round"/><line x1="4" y1="12" x2="20" y2="12" stroke="#2B63D9" stroke-width="2.5" stroke-linecap="round"/></svg>
+          </button>
+          <div class="ind-faq-acc-body"><div class="ind-faq-acc-a">Alle Gespräche werden streng vertraulich verarbeitet. Es gelten AV-Verträge gem. Art. 28 DSGVO, die Daten werden ausschließlich auf gesicherten EU-Servern gespeichert — kein Zugriff durch Dritte.</div></div>
+        </div>
+        <div class="ind-faq-acc-item">
+          <button class="ind-faq-acc-trigger" onclick="toggleFaq(this)">
+            <span class="ind-faq-acc-num">02</span>
+            <span class="ind-faq-acc-q">Kann die KI Termine direkt koordinieren?</span>
+            <svg class="ind-faq-acc-plus" viewBox="0 0 24 24" fill="none"><line x1="12" y1="4" x2="12" y2="20" stroke="#2B63D9" stroke-width="2.5" stroke-linecap="round"/><line x1="4" y1="12" x2="20" y2="12" stroke="#2B63D9" stroke-width="2.5" stroke-linecap="round"/></svg>
+          </button>
+          <div class="ind-faq-acc-body"><div class="ind-faq-acc-a">Ja. gosh! Agent nimmt Terminwünsche entgegen, gibt Verfügbarkeiten weiter und kann an gängige Kalender-Systeme angebunden werden — für eine nahtlose Terminverwaltung ohne Umwege.</div></div>
+        </div>
+        <div class="ind-faq-acc-item">
+          <button class="ind-faq-acc-trigger" onclick="toggleFaq(this)">
+            <span class="ind-faq-acc-num">03</span>
+            <span class="ind-faq-acc-q">Versteht das System rechtliche Fachbegriffe?</span>
+            <svg class="ind-faq-acc-plus" viewBox="0 0 24 24" fill="none"><line x1="12" y1="4" x2="12" y2="20" stroke="#2B63D9" stroke-width="2.5" stroke-linecap="round"/><line x1="4" y1="12" x2="20" y2="12" stroke="#2B63D9" stroke-width="2.5" stroke-linecap="round"/></svg>
+          </button>
+          <div class="ind-faq-acc-body"><div class="ind-faq-acc-a">gosh! Agent wird speziell auf deine Kanzlei konfiguriert — inkl. Fachvokabular, Zuständigkeiten und internen Abläufen. Das System lernt mit deinen Anforderungen und wird laufend optimiert.</div></div>
+        </div>
+        <div class="ind-faq-acc-item">
+          <button class="ind-faq-acc-trigger" onclick="toggleFaq(this)">
+            <span class="ind-faq-acc-num">04</span>
+            <span class="ind-faq-acc-q">Ist der Einsatz mit der Berufsordnung vereinbar?</span>
+            <svg class="ind-faq-acc-plus" viewBox="0 0 24 24" fill="none"><line x1="12" y1="4" x2="12" y2="20" stroke="#2B63D9" stroke-width="2.5" stroke-linecap="round"/><line x1="4" y1="12" x2="20" y2="12" stroke="#2B63D9" stroke-width="2.5" stroke-linecap="round"/></svg>
+          </button>
+          <div class="ind-faq-acc-body"><div class="ind-faq-acc-a">Ja. gosh! Agent ist DSGVO-konform, schließt AV-Verträge ab und verarbeitet keine inhaltlichen Rechtsfragen — die KI nimmt Anliegen entgegen und leitet weiter, ohne anwaltliche Tätigkeit zu ersetzen.</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- SO FUNKTIONIERT'S -->
@@ -2257,7 +2338,7 @@ footer { background:#080808; color:rgba(255,255,255,.5); border-top:1px solid #1
     </div>
     <div>
       <div class="ft-ch">Branchen</div>
-      <ul class="ft-ul"><li><a href="#branchen" onclick="switchTab(document.querySelector('[data-tab=arzt]'),'arzt')">Arztpraxen</a></li><li><a href="#branchen" onclick="switchTab(document.querySelector('[data-tab=gemeinde]'),'gemeinde')">Gemeinden</a></li><li><a href="#branchen" onclick="switchTab(document.querySelector('[data-tab=hotel]'),'hotel')">Hotellerie &amp; Gastronomie</a></li></ul>
+      <ul class="ft-ul"><li><a href="#branchen" onclick="switchTab(document.querySelector('[data-tab=arzt]'),'arzt')">Arztpraxen</a></li><li><a href="#branchen" onclick="switchTab(document.querySelector('[data-tab=gemeinde]'),'gemeinde')">Gemeinden</a></li><li><a href="#branchen" onclick="switchTab(document.querySelector('[data-tab=hotel]'),'hotel')">Hotellerie &amp; Gastronomie</a></li><li><a href="#branchen" onclick="switchTab(document.querySelector('[data-tab=kanzlei]'),'kanzlei')">Notare &amp; Rechtsberatung</a></li></ul>
     </div>
     <div>
       <div class="ft-ch">Unternehmen</div>
@@ -2456,7 +2537,7 @@ function switchTab(btn, tabId) {
 }
 
 /* ─── Branchen Tabs und Mobile Accordion ───────────────────── */
-const BRANCHE_LABELS = { gosh:'gosh! Agent live erleben', arzt:'Arztpraxen', gemeinde:'Gemeinden', hotel:'Hotellerie' };
+const BRANCHE_LABELS = { gosh:'gosh! Agent live erleben', arzt:'Arztpraxen', gemeinde:'Gemeinden', hotel:'Hotellerie', kanzlei:'Kanzleien' };
 const branchenMobile = window.matchMedia('(max-width:760px)');
 function syncBranchenMobile() {
   document.querySelectorAll('.ind-panel').forEach(panel => {
