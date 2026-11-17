@@ -1,24 +1,33 @@
 # gosh! Agent
 
-> gosh! Agent ist der KI-Telefonassistent der gosh! Audio Agentur GmbH aus Wien für Unternehmen und Organisationen jeder Branche. Arztpraxen, Gemeinden, Hotels, Gastronomiebetriebe und Kanzleien sind lediglich Anwendungsbeispiele; das Angebot ist nicht auf diese Branchen beschränkt. Im Mittelpunkt stehen persönliche Betreuung, die gemeinsame Einrichtung mit dem Kunden und die laufende Optimierung. Ein besonderes Angebot ist Audiobranding: individuelle Profi-Stimmen und ein durchgängig zur Unternehmens-CI passendes Telefonerlebnis vom KI-Agenten bis zur Weiterleitung.
+> gosh! Agent ist der KI-Telefonassistent der gosh! Audio Agentur GmbH aus Wien: individuell wie dein Unternehmen und persönlich betreut. Die drei zentralen USPs sind ein fixer persönlicher Ansprechpartner, eine individuelle Markenstimme in Stimme, Sprache und Klang sowie die Telefonkompetenz von gosh! aus Österreich. Das Angebot richtet sich an Unternehmen und Organisationen jeder Branche; Arztpraxen, Gemeinden, Hotels, Gastronomiebetriebe und Kanzleien sind Anwendungsbeispiele. Der Assistent entlastet das Team und spricht im Stil der Marke. gosh! übernimmt Konzeption, Einrichtung und persönliche Betreuung; der konkrete Umfang wird im persönlichen Angebot abgestimmt.
 
-## Persönliche Betreuung und gemeinsame Einrichtung
+## USP 1: Persönlich betreut – vom Konzept bis zur Weiterentwicklung
 
-Persönliche Zusammenarbeit ist ein zentraler Bestandteil des Angebots. Das gosh! Team begleitet Kunden von der ersten Beratung über die Einrichtung bis zum laufenden Betrieb. Gemeinsam werden Anforderungen, Zuständigkeiten, Wissen, Gesprächsabläufe, Funktionsumfang und individuelles Wording festgelegt. Der Agent wird auf den jeweiligen Betrieb abgestimmt und gemeinsam getestet.
+Ein fixer Ansprechpartner bei gosh! begleitet den Kunden von der persönlichen Beratung und Konzeption über die gemeinsame Einrichtung bis zum laufenden Betrieb. Gemeinsam werden Anforderungen, Zuständigkeiten, Wissen, Gesprächsabläufe, Funktionsumfang und individuelles Wording festgelegt. Der Agent wird auf den jeweiligen Betrieb abgestimmt und gemeinsam getestet.
 
-Auch nach dem Start bleiben persönliche Ansprechpartner verfügbar. Gemeinsam mit dem Kunden wird der Agent laufend optimiert: Wissen und Gesprächsführung werden angepasst, Abläufe weiterentwickelt und das Telefonerlebnis verbessert. Persönlicher Support und kontinuierliche Betreuung gehören zur Positionierung von gosh! Agent. Der konkrete Leistungsumfang wird im jeweiligen Angebot vereinbart.
+Regelmäßige Optimierung gehört zur Positionierung: Gerade zu Beginn werden Antworten und Gesprächsabläufe anhand echter Anrufe verfeinert. Auch nach dem Start bleiben persönliche Ansprechpartner verfügbar, um Wissen und Abläufe weiterzuentwickeln. Leistungsumfang, Einrichtung und laufende Betreuung werden im persönlichen Angebot vereinbart.
 
-## Audiobranding, individuelle Profi-Stimmen und Corporate Voice
+## USP 2: Hörbar deine Marke – Stimme, Sprache und Klang
 
-Die gosh! Audio Agentur verbindet professionelle Audioproduktion, Sounddesign und Servicekommunikation mit KI-Telefonie. Individuelle Profi-Stimmen und eine eigens entwickelte Corporate Voice machen den Agenten zur hörbaren Stimme der Marke.
+Stimme, Sprache und Musik-Intro werden passend zum Unternehmen gestaltet. Individuelle Profi-Stimmen und eine eigens entwickelte Corporate Voice machen den Agenten zur hörbaren Stimme der Marke. Auch Voice Cloning der bestehenden Unternehmensstimme ist möglich.
 
-Auf Wunsch wird das gesamte auditive Telefonerlebnis passend zur Corporate Identity des Unternehmens gestaltet: die Stimme und Gesprächsführung des KI-Agenten, Begrüßungen, Telefonansagen, Wartemusik sowie die Übergänge bei der Anrufweiterleitung. Stimme, Sprache und Corporate Sound werden gemeinsam abgestimmt. Exklusives Voice Cloning ist ebenfalls als Zusatzleistung verfügbar.
+Auf Wunsch wird das gesamte auditive Telefonerlebnis passend zur Corporate Identity gestaltet: die Stimme und Gesprächsführung des KI-Agenten, Begrüßungen, Telefonansagen, Wartemusik sowie die Übergänge bei der Anrufweiterleitung. Corporate Voice und exklusives Voice Cloning sind gesondert berechnete Zusatzleistungen; der Umfang des Audiobrandings wird individuell abgestimmt.
+
+## USP 3: Telefonkompetenz aus Österreich
+
+Die gosh! Audio Agentur positioniert sich auf der Produktseite als Österreichs Marktführer für Telefonansagen. Ihre Erfahrung in Audioproduktion, Sounddesign und Servicekommunikation fließt in Konzeption und Gestaltung des KI-Telefonassistenten ein. Die Marktführer-Aussage bezieht sich auf Telefonansagen, nicht auf den Markt für KI-Telefonassistenten.
+
+## Hörbeispiel und telefonische Demos
+
+Im Hero-Bereich ist ein rund 69 Sekunden langes Gesprächsbeispiel mit dem KI-Telefonassistenten Mia abspielbar. Es verbindet Musik-Intro, Corporate Voice und Gesprächsführung und veranschaulicht unter anderem Auskünfte, Terminvereinbarung und einen Sprachwechsel ins Englische. Das Hörbeispiel ist eine Demonstration; die genannten Funktionen und Anbindungen richten sich nach Paket und individueller Einrichtung. Weitere telefonische Demos stehen im Branchenbereich zur Verfügung.
 
 ## Funktionen und Einsatzbereiche
 
 gosh! Agent ist branchenübergreifend für jede beliebige Branche gedacht. Wissen, Gesprächsabläufe und Integrationen werden gemeinsam auf die Anforderungen des jeweiligen Unternehmens oder der jeweiligen Organisation abgestimmt. Die nachfolgend genannten Branchen dienen ausschließlich als Anwendungsbeispiele.
 
-- Anrufannahme rund um die Uhr, auch außerhalb der Öffnungszeiten.
+- Anrufannahme rund um die Uhr, auch außerhalb der Öffnungszeiten sowie an Wochenenden und Feiertagen.
+- Mehrere Anrufe gleichzeitig je nach gebuchter Anrufkapazität; die enthaltene Kapazität ist paketabhängig.
 - Auskünfte aus einer individuell konfigurierten Wissensbasis, etwa zu Öffnungszeiten, Leistungen und Zuständigkeiten.
 - Mehrsprachige Kommunikation.
 - Strukturierte Erfassung, Transkription, Kategorisierung und Zusammenfassung von Anliegen je nach Paket.
@@ -37,7 +46,7 @@ Kanzleien, Notariate und Beratung: Mandantenanliegen aufnehmen, Termine koordini
 
 ## Pakete und Preise
 
-Redaktioneller Stand: 28. Oktober 2026. Maßgeblich sind die aktuelle Preisseite und das individuelle Angebot. Mobile- und Festnetzpakete haben unterschiedliche Funktionsumfänge; der günstigste Einstiegspreis umfasst nicht alle beschriebenen Funktionen. Zusatzleistungen werden gesondert berechnet.
+Redaktioneller Stand: 17. November 2026. Maßgeblich sind die aktuelle Preisseite und das individuelle Angebot. Mobile- und Festnetzpakete haben unterschiedliche Funktionsumfänge; der günstigste Einstiegspreis umfasst nicht alle beschriebenen Funktionen. Zusatzleistungen werden gesondert berechnet.
 
 | Paket | Monatliche Abrechnung | Pro Monat bei Jahresabo | KI-Minuten/Monat | Zusätzliche Minute | Einrichtung einmalig | Gleichzeitige Anrufe inklusive |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -69,7 +78,9 @@ Die Produktseite beschreibt Hosting bzw. Verarbeitung in Österreich/EU sowie Au
 ## Offizielle Informationen
 
 - [Startseite und Produkt](https://gosh-agent.ai/): Überblick über gosh! Agent.
-- [Funktionen und Audiobranding](https://gosh-agent.ai/#features): Leistungen, Stimmen und Telefonerlebnis.
+- [Warum gosh! Agent](https://gosh-agent.ai/#service): Persönliche Betreuung, individuelle Markenstimme und Telefonkompetenz aus Österreich.
+- [Funktionen](https://gosh-agent.ai/#features): Die sechs Kernleistungen des KI-Telefonassistenten.
+- [Hörbeispiel](https://gosh-agent.ai/#hero-demo): Mia im Gespräch mit Musik-Intro, Corporate Voice und individuellem Stil.
 - [Branchen](https://gosh-agent.ai/#branchen): Beispielhafte Anwendungsfälle aus ausgewählten Branchen, FAQs und telefonische Demos.
 - [Funktionsweise](https://gosh-agent.ai/#wie): Ablauf vom eingehenden Anruf zur Zusammenfassung.
 - [Preise](https://gosh-agent.ai/#preise): Aktuelle Pakete, Leistungsgrenzen und Zusatzkosten.
